@@ -1,0 +1,6 @@
+site_name: My Docs
+nav:
+  - Home: index.md
+  - First: [k8s/first.md,k8s/second.md]
+theme:
+  name: 'material'
